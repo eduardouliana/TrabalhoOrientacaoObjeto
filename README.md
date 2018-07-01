@@ -6,7 +6,7 @@
 3
   PRIVATE: Acesso somente dentro da mesma classe;
   PUBLIC: Acesso por todas as classes do sistema;
-  PROTECTED: acesso somente na classe e suas filhas;
+  SEM QUALIFICADOR: Acesso somente dentro do mesmo pacote.
 4> B
 5> F,F,F,V,F
 
